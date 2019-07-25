@@ -1,7 +1,7 @@
 import React from 'react';
 
 import GoatHome from './components/GoatHome';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
